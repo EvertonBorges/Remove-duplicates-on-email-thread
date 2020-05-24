@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Remove duplicates on email thread</string>
+    <string name="email">E-mail</string>
+    <string name="insert">Insert</string>
+    <string name="remove">Remove</string>
+    <string name="button_remove_duplicates">Remove Duplicates</string>
 </resources>
